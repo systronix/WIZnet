@@ -1,5 +1,5 @@
 # WIZnet
-Collection of projects for WIZnet modules such as WIZ820io and WIZ550io 
+Collection of projects for WIZnet module WIZ550io 
 
 Hardware used
  - Teensy 3.X
@@ -10,4 +10,4 @@ Hardware used
  - wire jumpers to connect the display, thermocouple, and Teensy together, like [these](https://www.adafruit.com/products/1954)
 
 ## WIZ820io_DhcpStressTest
-This program includes several recovery techniques designed to work around the known bugs in the WIZ820io/W5200 chip.
+Moved to [WIZ820io_Test repository](https://github.com/systronix/WIZ820io_Test)
